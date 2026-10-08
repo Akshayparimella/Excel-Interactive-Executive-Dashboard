@@ -61,12 +61,15 @@ Support data-driven business decisions
 ## Project Outcome
 The project converts business data into an easy-to-understand visual dashboard, allowing users to analyze profitability from multiple business dimensions and quickly identify important performance trends.
 
+
+
 👨‍💻 Author
 
 Akshay Parimella
 
 B.Tech – Computer Science & Engineering
 
+Interested in Data Analytics | Business Intelligence | SQL | Excel | Power BI
 
 
 
